@@ -1,5 +1,5 @@
 ## About Me:
-Aspiring QA Engineer actively building test automation skills through hands-on projects with **Playwright** and **JavaScript**, applying industry practices like Page Object Model, structured test data, manual test documentation, and bug tracking with Jira. Working toward a QAE internship while expanding my automation portfolio one project at a time.
+Aspiring QA Engineer actively building test automation skills through hands-on projects with **Playwright** and **JavaScript**, applying industry practices like Page Object Model, structured test data, manual test documentation, and bug tracking with **Jira**. Working toward a QAE internship while expanding my automation portfolio one project at a time.
 
 ## Socials:
 
